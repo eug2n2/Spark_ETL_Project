@@ -66,10 +66,9 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=15021888
 
 ---
 ## 🐳 Docker 설정
-### docker-compose.yml 설명</br>
-Spark Master: Spark 클러스터의 마스터 노드 역할을 합니다. </br>
-Spark Worker: Spark 작업을 수행하는 워커 노드입니다.</br>
-MySQL Database: ETL 결과를 저장하거나 다른 데이터 작업을 위한 데이터베이스 역할을 합니다.</br>
+* Spark Master: Spark 클러스터의 마스터 노드 역할을 합니다. </br>
+* Spark Worker: Spark 작업을 수행하는 워커 노드입니다.</br>
+* MySQL Database: ETL 결과를 저장하거나 다른 데이터 작업을 위한 데이터베이스 역할을 합니다.</br>
 
 ## 💻 Spark 실행 화면</br>
 Spark에서 집계된 지역별 데이터를 출력한 예시:</br>
